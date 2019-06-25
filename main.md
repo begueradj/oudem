@@ -6,6 +6,7 @@
             - https://www.developsense.com/courses.html
             - http://www.satisfice.com/blog/
     3. SE
+        - Javier Trevino Saldana
 - G2
     1. JS
         - Sindre Sorhus
