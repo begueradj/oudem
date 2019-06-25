@@ -9,3 +9,4 @@
 - G2
     1. JS
         - Sindre Sorhus
+        - Michael Thiessen
