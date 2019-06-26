@@ -11,4 +11,5 @@
 - G2
     1. JS
         - Sindre Sorhus
+        - Jonas Galvez
         - Michael Thiessen
