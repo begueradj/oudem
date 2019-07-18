@@ -7,9 +7,9 @@
             - http://www.satisfice.com/blog/
     3. SE
         - Javier Trevino Saldana
-        - Eric Elliott
 - G2
     1. JS
+        - Eric Eliott
         - Sindre Sorhus
         - Jonas Galvez
         - Michael Thiessen
